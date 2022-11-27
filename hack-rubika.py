@@ -101,7 +101,7 @@ print("")
 print("""
 
                { no hacked ❌️ }
-                   { error : The server is down }
+                   { error : Not a bug }
 
 
 """)
